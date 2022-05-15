@@ -81,3 +81,11 @@ footer{
     color: brown;
 
 }
+
+.icon {
+    width: 80px;
+}
+
+#hero-img {
+    width: 100%;
+}
