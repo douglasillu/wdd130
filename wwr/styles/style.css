@@ -22,6 +22,7 @@ main section {
 
 #background {
     height: 725px;
+    background-color: rgb(235, 234, 198);
 }
 
 body {
@@ -35,12 +36,48 @@ nav a:hover{
     background-color: black;
     color: #d9c2a3;
 }
-.book, .join{}
-.book:hover, .join:hover{}
-
-#background{
-    background-color: rgb(235, 234, 198);
+.home-title {
+    color: brown;
 }
-.msg{}
+h4{
+    color: brown;
 
-footer{}
+}
+.book, .join{
+    color: brown;
+
+}
+.book:hover, .join:hover{
+    color: brown;
+
+}
+.msg h2{
+    color: brown;
+
+}
+.msg p{
+    color: brown;
+
+}
+footer h3{
+    color: brown;
+
+}
+footer a{
+    color: brown;
+
+}
+footer a:hover{
+    color: brown;
+
+}
+
+.msg{
+    color: brown;
+
+}
+
+footer{
+    color: brown;
+
+}
