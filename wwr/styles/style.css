@@ -16,9 +16,11 @@ main section
 }
 
 body {background-color: #fcfbfb; }
-
 header{background-color:rgba(20,30,13, .7);}
-nav a:hover{background-color: black;}
+nav a:hover{
+    background-color: black;
+    color: #d9c2a3;
+}
 .book, .join{}
 .book:hover, .join:hover{}
 #background{}
