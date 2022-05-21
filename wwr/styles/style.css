@@ -116,6 +116,11 @@ footer{
     padding: 25px 50px;
 }
 
+footer .social img {
+    padding-top: 15px;
+}
+
+
 #hero-img {
     width: 100%;
 }
