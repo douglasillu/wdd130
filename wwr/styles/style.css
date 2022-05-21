@@ -44,9 +44,11 @@ h4 {
 }
 
 .book, .join{
+    background-color: #d9c2a3;
     color: brown;
     text-decoration: none;
     font-family: 'Capriola';
+    font-size: 18px;
     padding: 15px 30px;
     margin-top: 50px;
 }
