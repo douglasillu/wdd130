@@ -128,13 +128,12 @@ footer{
 
 footer .social img {
     padding-top: 15px;
-    background-color: lightgreen;
-}
-
+ }
 
 .card-img {
     border: 10px solid #d9c2a3;
 }
+
 main section img {
     box-sizing: border-box;
 }
