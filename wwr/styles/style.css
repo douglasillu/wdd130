@@ -1,7 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Capriola&family=Dela+Gothic+One&family=Itim&display=swap');
 
-
-
 div {
     max-width: 1600px;
     margin: 0 auto;
@@ -21,14 +19,11 @@ div {
     color: brown
 }
 
-
 .home-title {
     color: brown;
     font-family: 'Capriola', sans-serif;
     font-size: 2em;
 }
-
-
 
 h4, h2{
     color: brown;
@@ -50,6 +45,7 @@ h4, h2{
 .button-box {
     text-align: center;
 }
+
 main section {
     text-align: center;
 }
@@ -79,40 +75,34 @@ nav a:hover{
 .msg p{
     color: brown;
     font-family: 'Capriola';
-
-}
-footer h3{
-    color: brown;
-    text-decoration:underline;
-    font-family: 'Capriola';
-
-}
-footer a{
-    color: brown;
-    text-decoration: none;
-
-}
-footer a:hover{
-    color: brown;
-    text-decoration:underline;
-
 }
 
 .msg{
     color: brown;
     background-color: lightgreen;
     font-family: 'Capriola';
+}
 
+footer h3{
+    color: brown;
+    text-decoration:underline;
+    font-family: 'Capriola';
+}
+
+footer a{
+    color: brown;
+    text-decoration: none;
+
+}
+
+footer a:hover{
+    color: brown;
+    text-decoration:underline;
 }
 
 footer{
     color: brown;
     background-color: lightgreen;
-
-}
-
-.icon {
-    width: 80px;
 }
 
 #hero-img {
@@ -120,5 +110,9 @@ footer{
 }
 
 .logo {
+    width: 80px;
+}
+
+.icon {
     width: 80px;
 }
