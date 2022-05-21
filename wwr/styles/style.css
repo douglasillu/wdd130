@@ -20,6 +20,33 @@ div {
     font-family: 'Capriola';
     color: brown
 }
+
+
+.home-title {
+    color: brown;
+    font-family: 'Capriola', sans-serif;
+    font-size: 2em;
+}
+
+
+
+h4 h2{
+    color: brown;
+    font-family: 'Capriola';
+
+}
+
+.book, .join{
+    color: brown;
+    text-decoration: none;
+    font-family: 'Capriola';
+
+}
+.book:hover, .join:hover{
+    color: brown;
+
+}
+
 .button-box {
     text-align: center;
 }
@@ -43,26 +70,7 @@ nav a:hover{
     background-color: black;
     color: #d9c2a3;
 }
-.home-title {
-    color: brown;
-    font-family: 'Capriola', sans-serif;
-    font-size: 2em;
-}
-h4{
-    color: brown;
-    font-family: 'Capriola';
 
-}
-.book, .join{
-    color: brown;
-    text-decoration: none;
-    font-family: 'Capriola';
-
-}
-.book:hover, .join:hover{
-    color: brown;
-
-}
 .msg h2{
     color: brown;
     font-family: 'Capriola';
