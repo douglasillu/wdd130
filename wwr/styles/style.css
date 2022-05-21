@@ -17,6 +17,8 @@ div {
 
 #hero-msg h1, #hero-msg h4 {
     text-align: center;
+    font-family: 'Capriola';
+    color: brown
 }
 .button-box {
     text-align: center;
