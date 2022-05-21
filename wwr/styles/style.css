@@ -112,8 +112,6 @@ footer h3{
 footer a{
     color: brown;
     text-decoration: none;
-    background-color: lightgreen;
-
 }
 
 footer a:hover{
@@ -130,6 +128,7 @@ footer{
 
 footer .social img {
     padding-top: 15px;
+    background-color: lightgreen;
 }
 
 
