@@ -43,6 +43,7 @@ h4 {
     text-decoration: none;
     font-family: 'Capriola';
     padding: 15px 30px;
+    margin-top: 50px;
 }
 
 .book:hover, .join:hover{
