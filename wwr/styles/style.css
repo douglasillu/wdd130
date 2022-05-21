@@ -47,11 +47,13 @@ nav a:hover{
 }
 h4{
     color: brown;
+    font-family: 'Capriola';
 
 }
 .book, .join{
     color: brown;
     text-decoration: none;
+    font-family: 'Capriola';
 
 }
 .book:hover, .join:hover{
@@ -65,6 +67,7 @@ h4{
 }
 .msg p{
     color: brown;
+    font-family: 'Capriola';
 
 }
 footer h3{
