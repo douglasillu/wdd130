@@ -11,6 +11,7 @@ div {
     color: #fcfbfb;
     text-decoration: none;
     font-family: 'Capriola';
+    padding: 35px;
 }
 
 #hero-msg h1, #hero-msg h4 {
