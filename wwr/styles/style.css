@@ -1,3 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Capriola&family=Dela+Gothic+One&family=Itim&display=swap');
+
+
+.home-title {
+    font-family: 'Dela Gothic one', sans-serif;
+    font-size: 2em;
+}
+
 div {
     max-width: 1600px;
     margin: 0 auto;
