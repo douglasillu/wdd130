@@ -41,6 +41,7 @@ h4 {
     color: brown;
     text-decoration: none;
     font-family: 'Capriola';
+    padding: 15px 30px;
 }
 
 .book:hover, .join:hover{
