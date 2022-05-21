@@ -25,21 +25,25 @@ div {
     font-size: 2em;
 }
 
-h4, h2{
+h2{
     color: brown;
     font-family: 'Capriola';
+    margin: 0;
+}
 
+h4 {
+    color: brown;
+    font-family: 'Capriola';
 }
 
 .book, .join{
     color: brown;
     text-decoration: none;
     font-family: 'Capriola';
-
 }
+
 .book:hover, .join:hover{
     color: brown;
-
 }
 
 .button-box {
