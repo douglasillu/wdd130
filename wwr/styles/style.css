@@ -12,6 +12,7 @@ div {
    text-align: center;
     color: #fcfbfb;
     text-decoration: none;
+    font-family: 'Capriola';
 }
 
 #hero-msg h1, #hero-msg h4 {
@@ -42,7 +43,7 @@ nav a:hover{
 }
 .home-title {
     color: brown;
-    font-family: 'Dela Gothic one', sans-serif;
+    font-family: 'Capriola', sans-serif;
     font-size: 2em;
 }
 h4{
@@ -62,7 +63,7 @@ h4{
 }
 .msg h2{
     color: brown;
-    font-family: 'Dela Gothic One';
+    font-family: 'Capriola';
 
 }
 .msg p{
