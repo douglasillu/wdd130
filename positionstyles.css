@@ -8,8 +8,8 @@
   width: 100%; 
   height: 100px; 
   background-color: red; 
-  grid-column-start: 1;
-  grid-column-end: 4;
+  grid-column-start: 1/4;
+  grid-column-end: 4/4;
 
 } 
 .green1 {
