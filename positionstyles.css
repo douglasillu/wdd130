@@ -140,6 +140,7 @@
   width: 400px; 
   height: 200px; 
   background-color: red; 
+  grid-row: 1/2;
   z-index: -2;
 } 
 .green6 {
