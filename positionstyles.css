@@ -150,8 +150,8 @@
   width: 200px; 
   height: 400px; 
   background-color: gold; 
-  grid-column: 5/6;
-  grid-row: 3/6;
+  grid-column: 5/7;
+  grid-row: 3/7;
   z-index: 1;
 } 
 .blue6 {
