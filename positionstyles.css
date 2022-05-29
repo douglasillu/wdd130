@@ -16,6 +16,8 @@
   width: 200px; 
   height: 200px; 
   background-color: green; 
+  grid-column-start: 3;
+  grid-column-end: 4;
 
 } 
 .yellow1 {
