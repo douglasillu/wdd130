@@ -142,8 +142,7 @@
   background-color: red; 
   grid-column: 1/5;
   grid-row: 1/2;
-  z-index: -1;
-} 
+ } 
 .green6 {
   width: 200px; 
   height: 200px; 
@@ -166,7 +165,6 @@
   background-color: blue; 
   grid-column: 2/6;
   grid-row: 2/6;
-  z-index: -1;
 } 
 
 
