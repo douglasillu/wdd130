@@ -147,6 +147,7 @@
   height: 200px; 
   background-color: green; 
   z-index: 1;
+  grid-column: 5/7;
 } 
 .yellow6 {
   width: 200px; 
