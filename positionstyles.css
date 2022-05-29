@@ -137,13 +137,13 @@
   display:grid;
 }
 .red6 {
-  width: 100px; 
-  height: 100px; 
+  width: 400px; 
+  height: 200px; 
   background-color: red; 
 } 
 .green6 {
-  width: 100px; 
-  height: 100px; 
+  width: 200px; 
+  height: 200px; 
   background-color: green; 
 } 
 .yellow6 {
