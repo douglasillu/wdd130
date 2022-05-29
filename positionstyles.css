@@ -140,9 +140,9 @@
   width: 400px; 
   height: 200px; 
   background-color: red; 
-  grid-column: 1/4;
+  grid-column: 1/5;
   grid-row: 1/2;
-  z-index: -2;
+  z-index: -1;
 } 
 .green6 {
   width: 200px; 
