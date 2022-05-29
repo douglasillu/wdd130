@@ -35,19 +35,21 @@
 .content2 {
   /* This is the parent of the activity 2 boxes. */
   display:grid;
-  
+  grid-template-columns: repeat(6, 100px);
+  grid-template-rows: repeat(6, 100px);
  
 }
 .red2 {
   width: 100px; 
   height: 100px; 
   background-color: red; 
-  float:left;
+  
 } 
 .green2 { 
   width: 100px; 
   height: 100px; 
   background-color: green; 
+  z-index: 1;
   
 } 
 .yellow2 {
