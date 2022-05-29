@@ -35,8 +35,7 @@
 .content2 {
   /* This is the parent of the activity 2 boxes. */
   display:grid;
-  grid-template-columns: repeat(6, 100px);
-  grid-template-rows: repeat(6, 100px);
+
  
 }
 .red2 {
