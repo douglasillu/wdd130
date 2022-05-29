@@ -37,20 +37,19 @@
   display:grid;
   grid-template-columns: repeat(6, 100px);
   grid-template-rows: repeat(6, 100px);
+ 
 }
 .red2 {
   width: 100px; 
   height: 100px; 
   background-color: red; 
-  z-index: -1;
 } 
 .green2 { 
   width: 100px; 
   height: 100px; 
   background-color: green; 
-  grid-column: 2/3;
-  grid-row: 2/3;
-  z-index: 1;
+  grid-column: span;
+  grid-row: span;
 } 
 .yellow2 {
   width: 100px; 
