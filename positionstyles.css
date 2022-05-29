@@ -134,6 +134,7 @@
 /* Activity 6 styles */ 
 .content6 {
   /* This is the parent of the activity 6 boxes. */
+  display:grid;
 }
 .red6 {
   width: 100px; 
@@ -157,6 +158,9 @@
   width: 100px; 
   height: 100px; 
   background-color: blue; 
+  grid-column: 2/6;
+  grid-row: 2/6;
+  z-index: -1;
 } 
 
 
