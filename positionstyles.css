@@ -118,13 +118,13 @@
   width: 100px; 
   height: 100px; 
   background-color: green; 
+  float: left;
 
 } 
 .yellow5 {
   width: 100%; 
   height: 100%; 
   background-color: gold; 
-z-index: -1;
 } 
 .blue5 {
   width: 100%; 
