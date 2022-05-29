@@ -3,6 +3,7 @@
 .content1 {
   /* This is the parent of the activity 1 boxes. */
   display: grid;
+  grid-template-columns: 1 fr 1fr;
 }
 .red1 { 
   width: 100%; 
