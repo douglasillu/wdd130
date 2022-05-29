@@ -115,7 +115,7 @@
   background-color: red; 
 } 
 .green5 { 
-  width: 50%; 
+  width: 100px; 
   height: 50%; 
   background-color: green; 
   float: left;
