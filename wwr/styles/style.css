@@ -25,6 +25,16 @@ nav a:hover{
     color: brown
 }
 
+header {
+    display: grid;
+    grid-template-columns: 150px auto;
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+}
+
 .home-title {
     color: brown;
     font-family: 'Capriola', sans-serif;
