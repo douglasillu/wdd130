@@ -161,6 +161,7 @@ main section img {
 #hero-box {
     grid-column: 1/4;
     grid-row: 1/3;
+    z-index: -1;
 }
 
 #hero-msg h4 {
