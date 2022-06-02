@@ -134,7 +134,9 @@ footer{
     background-color: lightgreen;
     padding: 25px 50px;
     margin-top: 200px;
-}
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
 
 footer .social img {
     padding-top: 15px;
