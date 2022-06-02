@@ -144,6 +144,10 @@ footer .social img {
     border: 10px solid #d9c2a3;
 }
 
+.card-img, .mountains {
+    width: 100%;
+}
+
 main section img {
     box-sizing: border-box;
 }
