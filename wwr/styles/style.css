@@ -78,11 +78,11 @@ h4 {
 
 #background {
     height: 725px;
-    background-color: rgb(235, 234, 198);
+    background-color: rgb(243, 242, 221);
 }
 
 header{
-    background-color:rgba(20,30,13, .7);
+    background-color: black;
 }
 
 main section {
