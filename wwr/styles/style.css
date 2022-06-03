@@ -76,6 +76,12 @@ h4 {
     margin: 200px 0;
 }
 
+
+.rivers-card {
+    grid-column: 2/4;
+    grid-row: 2/3;
+}
+
 #background {
     height: 725px;
     background-color: rgb(243, 242, 221);
