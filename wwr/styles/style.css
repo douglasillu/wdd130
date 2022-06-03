@@ -95,6 +95,8 @@ h4 {
 #background {
     height: 725px;
     background-color: rgb(243, 242, 221);
+    grid-column: 1/11;
+    grid-row: 4/9;
 }
 
 header{
