@@ -145,7 +145,11 @@ footer a{
     text-decoration: none;
 }
 
-footer a:hover{
+footer p {
+    text-size: 1.2em;
+} 
+
+footer p a:hover{
     color: brown;
     text-decoration:underline;
 }
