@@ -259,7 +259,7 @@ main section img {
         width: 60%;
     }
     #background {
-    
+        display: none;
     }
     .mountains, .msg {
         width: 80%;
