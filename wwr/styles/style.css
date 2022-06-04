@@ -19,21 +19,11 @@ nav a:hover{
     color: #d9c2a3;
 }
 
-#hero-msg h1, #hero-msg h4 {
-    text-align: center;
-    font-family: 'Capriola';
-    color: brown
-}
-
-header {
-    display: grid;
-    grid-template-columns: 150px auto;
-}
-
 nav {
     display: flex;
     justify-content: space-around;
 }
+
 
 .home-title {
     color: brown;
@@ -41,6 +31,17 @@ nav {
     font-size: 2em;
     margin-top: 10px;
 }
+
+
+
+header {
+    display: grid;
+    grid-template-columns: 150px auto;
+    background-color: darkolivegreen;
+}
+
+
+
 
 h2{
     color: brown;
@@ -97,10 +98,6 @@ h4 {
     background-color: rgb(243, 242, 221);
     grid-column: 1/11;
     grid-row: 4/9;
-}
-
-header{
-    background-color: darkolivegreen;
 }
 
 main section {
@@ -215,6 +212,12 @@ main section img {
     grid-column: 2/3;
     grid-row: 1/2;
     margin-top: 100px;
+}
+
+#hero-msg h1, #hero-msg h4 {
+    text-align: center;
+    font-family: 'Capriola';
+    color: brown
 }
 
 
