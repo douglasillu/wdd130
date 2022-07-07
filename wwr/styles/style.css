@@ -228,6 +228,12 @@ main section img {
     align-self: center;
 }
 
+#Riversp {
+    display: grid;
+    grid-template-columns: 1fr 3fr 1fr;
+    margin-top: -100px;
+}
+
 
 @media screen and (max-width: 900px) {
     #hero, .home-grid {
