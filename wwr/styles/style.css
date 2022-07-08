@@ -234,6 +234,11 @@ main section img {
     margin-top: -100px;
 }
 
+**********
+
+#riverp-img {
+    width: 100%;
+}
 
 @media screen and (max-width: 900px) {
     #hero, .home-grid {
