@@ -1,10 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Capriola&family=Dela+Gothic+One&family=Itim&display=swap');
 
-div {
+#content {
     max-width: 1600px;
     margin: 0 auto;
-    background-color: powderblue;
-  }
+    width: auto;
+    text-align: center;
+}
 
   nav {
     display: flex;
@@ -91,22 +92,15 @@ h4 {
     background-color: rgb(243, 242, 221);
     grid-column: 1/11;
     grid-row: 4/9;
-}
+    margin: 0 auto;
+ }
 
 main section {
     text-align: center;
 }
 
-#content {
-    max-width: 1600px;
-    margin: 0 auto;
-    width: auto;
-    text-align: center;
-
-}
-
 body {
-    background-color: #fcfbfb;
+    background-color: #b7e9f8;
     font-family: Capriola, Arial, sans-serif;
     max-width: 1600px;
    }
@@ -199,8 +193,8 @@ main section img {
 #hero-img {
     grid-column: 1/7;
     grid-row: 5/8;
-    box-shadow: 5px 5px 10px #6f7364;
     width: 100%;
+    margin-top: 100px;
 }
 
 #hero-box {
@@ -216,7 +210,7 @@ main section img {
 #hero-msg {
     grid-column: 2/3;
     grid-row: 1/2;
-    margin-top: 700px;
+    margin-top: -100px;
 }
 
 #hero-msg h1, #hero-msg h4 {
