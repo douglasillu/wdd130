@@ -255,12 +255,21 @@ main section img {
 
 #riverp-img {
     width: 100%;
+    margin-top: 75px;
 }
 
 #River-box {
     grid-column: 1/4;
     grid-row: 1/3;
     z-index: auto;
+}    
+
+ #river-msg {
+    grid-column: 2/3;
+    grid-row: 1/2;
+    margin-top: -100px;
+    text-align: center;
+ }   
 
 @media screen and (max-width: 900px) {
     #hero, .home-grid {
