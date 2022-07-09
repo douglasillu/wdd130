@@ -236,9 +236,12 @@ footer .social img{
 ********************************
 *****Rivers Page*****
 
-.home-title {
-    margin-top: 10px;
-}
+#content2 {
+    max-width: 1600px;
+    margin: 0 auto;
+    width: auto;
+    text-align: center;
+  } 
 
 #Riversp {
     display: grid;
