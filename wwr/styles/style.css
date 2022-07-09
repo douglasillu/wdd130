@@ -130,7 +130,6 @@ nav a:hover{
 }
 
 .card-img {
-    margin-top: 100px;
     border: 10px solid #d9c2a3;
     transition: transform .5s;
     box-shadow: 5px 5px 10px #6f7364;
@@ -155,7 +154,6 @@ main section img {
     background-color: rgb(146, 130, 96);
     grid-column: 1/11;
     grid-row: 4/9;
-    margin-top: 100px;
  }
 
  .mountains {
