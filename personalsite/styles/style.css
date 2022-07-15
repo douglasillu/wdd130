@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Boogaloo&family=Fredoka+One&family=Overlock&display=swap');
+
+
+#content {
+    max-width: 1600px;
+    margin: 0 auto;
+    width: auto;
+    text-align: center;
+  }    
+
+header {
+    display: grid;
+    grid-template-columns: 150px auto;
+}
+
+#logo_link{
+    padding-top: 5px;
+    justify-self: center;
+    align-self: center;
+}
+
+.logo {
+    width: 80px;
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+}
+
+nav a {
+    text-align: center;
+    color: #e6c1c1;
+     text-decoration: none;
+     font-family: 'Capriola';
+     font-size: 1.3em;
+     padding: 35px;
+}
+
+nav a:hover{
+    background-color: black;
+    color: #d9c2a3;
+}
