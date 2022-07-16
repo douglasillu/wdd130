@@ -252,9 +252,6 @@ footer .social img{
  ***************************************
  **** Portfolio *****************
 
-
- 
-  
  #creative2 {
     display: grid;
     grid-template-columns: 10fr 10fr 10fr 10fr;
@@ -321,7 +318,7 @@ footer .social img{
     text-align: center;
     padding: 35px;
     margin-right: 0px;
-    margin-top: -1550px;
+    margin-top: -1350px;
     margin-left: 300px;
     grid-column: 1/5;
     grid-row: 1/1;
@@ -341,7 +338,7 @@ footer .social img{
     grid-row: 2/3;
     box-shadow: 5px 5px 10px  #d9c2a3;
     margin-right: 550px;
-    margin-top: -600px;
+    margin-top: -700px;
     margin-left: -200px;
     margin-bottom: 220px;
 }
@@ -356,8 +353,8 @@ footer .social img{
     transition: transform .5s;
     box-shadow: 5px 5px 10px #6f7364;
     width: 800px;
-    margin-left: 650px;
-    margin-top: 1320px;
+    margin-left: 350px;
+    margin-top: 1120px;
     grid-column: 4/5;
     grid-row: 2/3;
    }
@@ -396,6 +393,7 @@ p{
     margin-top: 50px;
     border-radius: 5px;
 }
+
 
 
 
@@ -458,53 +456,53 @@ p{
         margin-top: 25px;
     }
 
-    *****River page*****
+    *****Portfolio*****
 
-    #Riversp {
-        margin-top: 200px;
-            }
-
-    #river-msg {
-        margin-top: -100px;
-        margin-left: -150px;
-    }
-
-   .book2{
-        width: 10%;
+    #creative2, .home-grid6 {
         display: block;
-        margin-left: 0px;
-        margin-top: 100px;
-           
+        height: auto;
     }
-    .home-little2 {
+
+    .logo2{
+        width: 100%; 
+        margin-left: 0px;
+    }
+    
+    nav, footer {
+        flex-direction: column;
+    }
+    nav a {
+        display: block;
+        padding: 15px;
+    }
+    #creative2 {
+        margin-top: 200px;
+    }
+    #creative2-msg {
+        margin-top: 0;
+    }
+    #creative2-msg h4 {
+        display: none;
+    }
+    .home-title6 {
         font-size: 25px;
         color: #6f7364;
     }
-
-    .salmon-card, .canyon-card { 
-        margin: 50px auto;
-        width: 80%;
-        margin-top: 100px;
-    }
-
-    .desolation-card { 
-        margin: 50px auto;
-        width: 80%;
-        margin-top: 200px;
-    }
     
-
-    .msg-salmon, .msg-canyon { 
-        width: 80%;
-        display: block;
-        margin-left: 0px;
-        margin-top: 100px;
+    .card6-img  {
+        width: 100%;
+        margin: 10px auto;
+        
     }
 
-    .msg-desolation{ 
+    .home6-card { 
+        margin: 0 auto;
+        width: 50%;
+    }
+   
+    .msg-portfolio1, .msg-portfolio2 {
         width: 80%;
         display: block;
-        margin-left: 0px;
-        margin-top: 200px;
+        margin: 0 auto;
     }
 }        
