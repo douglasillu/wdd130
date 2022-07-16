@@ -476,7 +476,11 @@ p{
         padding: 15px;
     }
     #creative2 {
-        margin-top: 200px;
+        margin-top: 0px;
+    }
+
+    #creative2-img {
+        margin-top: -10px;
     }
     #creative2-msg {
         margin-top: 0;
@@ -492,7 +496,7 @@ p{
     .card6-img  {
         width: 100%;
         margin: 10px auto;
-        
+        margin-top: 0px;   
     }
 
     .home6-card { 
