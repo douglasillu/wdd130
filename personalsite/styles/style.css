@@ -124,7 +124,7 @@ nav a:hover{
     border-radius: 5px;
 }
 
-.msg-home1{
+.msg-home1 {
     text-align: center;
     padding: 35px;
     grid-column: 1/10;
@@ -202,9 +202,6 @@ p{
     border-radius: 5px;
 }
 
-
-
-
    footer{
     color: #e71d36;
     background-color: #2ec4b6;
@@ -242,3 +239,106 @@ footer p a:hover{
 footer .social img{
     padding-top: 15px;
  }
+
+
+ @media screen and (max-width: 900px) {
+    #creative, .home-grid5 {
+        display: block;
+        height: auto;
+    }
+
+    .logo {
+        width: 100%; 
+    }
+    
+    nav, footer {
+        flex-direction: column;
+    }
+    nav a {
+        display: block;
+        padding: 15px;
+    }
+    #creative {
+        margin-top: 200px;
+    }
+    #creative-msg {
+        margin-top: 0;
+    }
+    #creative-msg h4 {
+        display: none;
+    }
+    .home-title5 {
+        font-size: 25px;
+        color: #6f7364;
+    }
+    
+    .card5-img  {
+        width: 100%;
+        margin: 10px auto;
+    }
+
+    .home5-card { 
+        margin: 50px auto;
+        width: 60%;
+    }
+    #background {
+        display: none;
+    }
+    .msg-home1, .msg-home2 {
+        width: 80%;
+        display: block;
+        margin: 0 auto;
+    }
+    footer {
+        margin-top: 25px;
+    }
+
+    *****River page*****
+
+    #Riversp {
+        margin-top: 200px;
+            }
+
+    #river-msg {
+        margin-top: -100px;
+        margin-left: -150px;
+    }
+
+   .book2{
+        width: 10%;
+        display: block;
+        margin-left: 0px;
+        margin-top: 100px;
+           
+    }
+    .home-little2 {
+        font-size: 25px;
+        color: #6f7364;
+    }
+
+    .salmon-card, .canyon-card { 
+        margin: 50px auto;
+        width: 80%;
+        margin-top: 100px;
+    }
+
+    .desolation-card { 
+        margin: 50px auto;
+        width: 80%;
+        margin-top: 200px;
+    }
+    
+
+    .msg-salmon, .msg-canyon { 
+        width: 80%;
+        display: block;
+        margin-left: 0px;
+        margin-top: 100px;
+    }
+
+    .msg-desolation{ 
+        width: 80%;
+        display: block;
+        margin-left: 0px;
+        margin-top: 200px;
+    }
