@@ -679,7 +679,7 @@ p{
         margin-top: -10px;
     }
     #creative2-msg {
-        margin-top: 0;
+        margin-top: 0px;
     }
     #creative2-msg h4 {
         display: none;
@@ -690,17 +690,86 @@ p{
     }
     
     .card6-img  {
+        width: 70%;
+        margin-top: 50px; 
+        margin-left: -300px;
+    }
+
+    .home6-card { 
+        margin: 0 auto;
+        width: 30%;
+    }
+   
+    .msg-portfolio1, {
+       
+        width: 30%;
+        display: block;
+        margin-left: 0px;
+        margin-top: 400px;
+        
+        }
+
+    .msg-portfolio2 {
+        width: 30%;
+        display: block;
+        margin-left: 0px;
+        margin-top: 400px;
+
+    }
+
+    .icon2 {
+        margin-left: -250px;
+     }
+
+    *****About Us *****
+
+    #creative3, .home-grid7 {
+        display: block;
+        height: auto;
+    }
+
+    .logo3{
+        width: 100%; 
+        margin-left: 0px;
+    }
+    
+    nav, footer {
+        flex-direction: column;
+    }
+    nav a {
+        display: block;
+        padding: 15px;
+    }
+    #creative3 {
+        margin-top: 0px;
+    }
+
+    #creative3-img {
+        margin-top: -10px;
+    }
+    #creative3-msg {
+        margin-top: 0;
+    }
+    #creative3-msg h4 {
+        display: none;
+    }
+    .home-title7 {
+        font-size: 25px;
+        color: #6f7364;
+    }
+    
+    .card7-img  {
         width: 100%;
         margin: 10px auto;
         margin-top: 0px;   
     }
 
-    .home6-card { 
+    .home7-card { 
         margin: 0 auto;
         width: 50%;
     }
    
-    .msg-portfolio1, .msg-portfolio2 {
+    .msg-aboutus1, .msg-aboutus2 {
         width: 80%;
         display: block;
         margin: 0 auto;
