@@ -331,7 +331,7 @@ footer .social img{
     text-align: center;
     padding: 35px;
     margin-right: 0px;
-    margin-top: -1200px;
+    margin-top: -1300px;
     margin-left: 0px;
     grid-column: 1/1;
     grid-row: 1/1;
@@ -350,7 +350,7 @@ footer .social img{
     grid-column: 1/1;
     grid-row: 1/1;
     box-shadow: 5px 5px 10px  #d9c2a3;
-    margin-right: 800px;
+    margin-right: 1000px;
     margin-top: 50px;
     margin-left: 30px;
     margin-bottom: 200px;
@@ -366,7 +366,7 @@ footer .social img{
     transition: transform .5s;
     box-shadow: 5px 5px 10px #6f7364;
     width: 700px;
-    margin-left: 750px;
+    margin-left: 900px;
     margin-top: 50px;
     grid-column: 4/5;
     grid-row: 1/3
